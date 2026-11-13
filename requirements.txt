@@ -1,0 +1,14 @@
+mysql-connector-python 
+streamlit 
+streamlit-option-menu
+bcrypt
+pandas 
+matplotlib
+pdfplumber
+langchain 
+langchain-community 
+faiss-cpu 
+sentence-transformers 
+ollama
+python-dotenv
+groq
